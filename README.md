@@ -49,7 +49,7 @@ Library ini **pure Python**, tidak ada dependensi eksternal.
 Cukup copy file `folder_utilities.py` ke project Anda:
 
 ```bash
-git clone https://github.com/username/FolderUtilities.git](https://github.com/riffasoft/folder-utilities.git
+git clone https://github.com/riffasoft/folder-utilities.git
 ```
 
 Atau langsung copy `folder_utilities.py` ke project Anda.
